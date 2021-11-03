@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointCloudTest02", "PointCloud.vcxproj", "{8E56678B-5AFD-482C-92D8-27FDC1713F99}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointCloudTest02_readlas", "..\PointCloudTest02_readlas\PointCloudTest02_readlas.vcxproj", "{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Debug|x64.ActiveCfg = Debug|x64
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Debug|x64.Build.0 = Debug|x64
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Debug|x86.Build.0 = Debug|Win32
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Release|x64.ActiveCfg = Release|x64
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Release|x64.Build.0 = Release|x64
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Release|x86.ActiveCfg = Release|Win32
+		{8E56678B-5AFD-482C-92D8-27FDC1713F99}.Release|x86.Build.0 = Release|Win32
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Debug|x64.ActiveCfg = Debug|x64
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Debug|x64.Build.0 = Debug|x64
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Debug|x86.Build.0 = Debug|Win32
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Release|x64.ActiveCfg = Release|x64
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Release|x64.Build.0 = Release|x64
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Release|x86.ActiveCfg = Release|Win32
+		{F95A3648-54EB-4EC5-9CC9-F59A67C4A84A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6390D9C7-517C-4672-82DE-905860A00302}
+	EndGlobalSection
+EndGlobal
